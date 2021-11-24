@@ -1,0 +1,72 @@
+.small-pigeon {
+    width: 40px;
+    height: 40px;
+    fill: #1da1f2;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.content {
+    margin-left: 50%;
+    margin-top: 30px;
+}
+
+.heading {
+    margin-left: 880px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.main {
+    margin-left: 715px;
+}
+
+.form input {
+    padding: 20px;
+    width: 500px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(29 161 242);
+    outline-style: none;
+    padding-bottom: 20px;
+    
+
+
+}  
+
+.btn button {
+    
+    
+    margin-left: -2px;
+    margin-top: 25px;
+    padding: 15px;
+    width: 505px;
+    border-radius: 30px;
+    border: none;
+    outline-style: none;
+    color: #fff;
+    background-color: #1da1f2;
+    opacity: .5;
+    font-size: 16px;
+    
+}
+
+.forgot {
+    margin-left: 110px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+p, a {
+    color: #1da1f2;
+}
+
+.signup {
+    margin-left: 270px;
+    margin-top: -17px;
+    font-family: sans-serif;
+}
